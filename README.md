@@ -10,9 +10,11 @@
   
 
 - 🌱 I’m currently learning C  
-  
+ 
 <p align="center">
-  [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,git,java,html,css,js,linux)](https://skillicons.dev)
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,git,java,html,css,js,linux" />
+  </a>
 </p>
 
 <br/>  
