@@ -11,5 +11,6 @@
 
 - 🌱 I’m currently learning C  
   
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,git,java,html,css,js,linux)](https://skillicons.dev)
 
 <br/>  
