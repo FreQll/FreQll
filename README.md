@@ -9,11 +9,11 @@
 - 🔭 I’m currently working on ucode connect projects  
   
 
-- 🌱 I’m currently learning C  
+- 🌱 I’m currently learning Full-Stack Web Development 
  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,git,java,html,css,js,linux" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,git,java,linux" />
   </a>
 </p>
 
