@@ -1,4 +1,4 @@
-## Hi, I'm Danylo, a Student of NTU KhPI and participant of Ucode Connect 👨‍💻 
+# Hi, I'm Danylo, a Student of NTU KhPI and participant of Ucode Connect 👨‍💻 
 
 
 ### Connect With Me
@@ -10,12 +10,15 @@
 
 ----
 
-#### 🔭 I’m currently working on Ucode Connect projects  
+#### ⚙️ My Last Projects
+  - [Lider-Vantazh landing page](https://lider-vantazh.com.ua/)
+  - [DevTalk - forum application like Stack Overflow](https://github.com/FreQll/Usof-DevTalk)
+  - Chronos - calendar for event managment
 
 #### 🌱 I’m currently learning Full-Stack Web Development
   - React
   - Redux
-  - JS
+  - TypeScript
   - Node.js + Express
   - MySQL
   
@@ -33,6 +36,7 @@
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
