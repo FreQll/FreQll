@@ -13,7 +13,7 @@
 #### ⚙️ My Last Projects
   - [Lider-Vantazh landing page](https://lider-vantazh.com.ua/)
   - [DevTalk - forum application like Stack Overflow](https://github.com/FreQll/Usof-DevTalk)
-  - [Chronos - calendar for event managment](https://github.com/FreQll/Chronos-API)
+  - [Chronos - calendar for event managment](https://github.com/FreQll/Timeflow-Chronos-Fullstack)
 
 #### 🌱 I’m currently learning Full-Stack Web Development
   - React
