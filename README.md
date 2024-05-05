@@ -14,13 +14,16 @@
   - [Lider-Vantazh landing page](https://lider-vantazh.com.ua/)
   - [DevTalk - forum application like Stack Overflow](https://github.com/FreQll/Usof-DevTalk)
   - [Chronos - calendar for event managment](https://github.com/FreQll/Timeflow-Chronos-Fullstack)
+  - [Uevent - platform that brings people together](https://github.com/FreQll/Uevent-Fullstack)
 
 #### 🌱 I’m currently learning Full-Stack Web Development
   - React
+  - Next.js
   - Redux
   - TypeScript
   - Node.js + Express
-  - MySQL
+  - MySQL, PostgreSQL
+  - Prisma
   
 ----
  ### Current Skills
